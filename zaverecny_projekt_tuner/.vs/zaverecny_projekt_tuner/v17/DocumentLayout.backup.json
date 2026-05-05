@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sarazynskad\\Documents\\zaverecny_projekt_tuner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0038AF8B-87CE-4E4C-AE5D-C25D7E65E9AB}|zaverecny_projekt_tuner\\zaverecny_projekt_tuner.csproj|c:\\users\\sarazynskad\\documents\\zaverecny_projekt_tuner\\zaverecny_projekt_tuner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0038AF8B-87CE-4E4C-AE5D-C25D7E65E9AB}|zaverecny_projekt_tuner\\zaverecny_projekt_tuner.csproj|solutionrelative:zaverecny_projekt_tuner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sarazynskad\\Documents\\zaverecny_projekt_tuner\\zaverecny_projekt_tuner\\Program.cs",
+              "RelativeDocumentMoniker": "zaverecny_projekt_tuner\\Program.cs",
+              "ToolTip": "C:\\Users\\sarazynskad\\Documents\\zaverecny_projekt_tuner\\zaverecny_projekt_tuner\\Program.cs",
+              "RelativeToolTip": "zaverecny_projekt_tuner\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T13:44:54.302Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
