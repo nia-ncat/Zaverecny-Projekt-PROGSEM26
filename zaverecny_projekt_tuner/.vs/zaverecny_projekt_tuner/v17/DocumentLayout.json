@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "O:\\zaverecny_projekt_tuner\\",
+  "WorkspaceRootPath": "C:\\Users\\danie\\OneDrive\\Documents\\csharp\\Zaverecny-Projekt-PROGSEM26\\zaverecny_projekt_tuner\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0038AF8B-87CE-4E4C-AE5D-C25D7E65E9AB}|zaverecny_projekt_tuner\\zaverecny_projekt_tuner.csproj|o:\\zaverecny_projekt_tuner\\zaverecny_projekt_tuner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0038AF8B-87CE-4E4C-AE5D-C25D7E65E9AB}|zaverecny_projekt_tuner\\zaverecny_projekt_tuner.csproj|c:\\users\\danie\\onedrive\\documents\\csharp\\zaverecny-projekt-progsem26\\zaverecny_projekt_tuner\\zaverecny_projekt_tuner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0038AF8B-87CE-4E4C-AE5D-C25D7E65E9AB}|zaverecny_projekt_tuner\\zaverecny_projekt_tuner.csproj|solutionrelative:zaverecny_projekt_tuner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "O:\\zaverecny_projekt_tuner\\zaverecny_projekt_tuner\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documents\\csharp\\Zaverecny-Projekt-PROGSEM26\\zaverecny_projekt_tuner\\zaverecny_projekt_tuner\\Program.cs",
               "RelativeDocumentMoniker": "zaverecny_projekt_tuner\\Program.cs",
-              "ToolTip": "O:\\zaverecny_projekt_tuner\\zaverecny_projekt_tuner\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documents\\csharp\\Zaverecny-Projekt-PROGSEM26\\zaverecny_projekt_tuner\\zaverecny_projekt_tuner\\Program.cs",
               "RelativeToolTip": "zaverecny_projekt_tuner\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-05T13:44:54.302Z",
               "EditorCaption": ""

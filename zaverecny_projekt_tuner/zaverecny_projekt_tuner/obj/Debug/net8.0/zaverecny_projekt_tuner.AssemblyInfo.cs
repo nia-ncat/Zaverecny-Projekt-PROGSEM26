@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("zaverecny_projekt_tuner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6135d4921d64a949acafeeb7bdfde0f2488f0b63")]
 [assembly: System.Reflection.AssemblyProductAttribute("zaverecny_projekt_tuner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("zaverecny_projekt_tuner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
