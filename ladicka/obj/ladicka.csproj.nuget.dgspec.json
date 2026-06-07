@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\belru_cb331rc\\OneDrive\\Рабочий стол\\school\\ladicka\\ladicka.csproj": {}
+    "C:\\Users\\danie\\OneDrive\\Documents\\csharp\\Zaverecny-Projekt-PROGSEM26\\ladicka\\ladicka.csproj": {}
   },
   "projects": {
-    "C:\\Users\\belru_cb331rc\\OneDrive\\Рабочий стол\\school\\ladicka\\ladicka.csproj": {
+    "C:\\Users\\danie\\OneDrive\\Documents\\csharp\\Zaverecny-Projekt-PROGSEM26\\ladicka\\ladicka.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\belru_cb331rc\\OneDrive\\Рабочий стол\\school\\ladicka\\ladicka.csproj",
+        "projectUniqueName": "C:\\Users\\danie\\OneDrive\\Documents\\csharp\\Zaverecny-Projekt-PROGSEM26\\ladicka\\ladicka.csproj",
         "projectName": "ladicka",
-        "projectPath": "C:\\Users\\belru_cb331rc\\OneDrive\\Рабочий стол\\school\\ladicka\\ladicka.csproj",
-        "packagesPath": "C:\\Users\\belru_cb331rc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\belru_cb331rc\\OneDrive\\Рабочий стол\\school\\ladicka\\obj\\",
+        "projectPath": "C:\\Users\\danie\\OneDrive\\Documents\\csharp\\Zaverecny-Projekt-PROGSEM26\\ladicka\\ladicka.csproj",
+        "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\danie\\OneDrive\\Documents\\csharp\\Zaverecny-Projekt-PROGSEM26\\ladicka\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\belru_cb331rc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -68,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.309/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

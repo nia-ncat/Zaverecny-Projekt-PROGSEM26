@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ladicka")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6c5df08b4e40d750e7444e52bd3bc5e500fdc8e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ladicka")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ladicka")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
