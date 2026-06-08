@@ -3,44 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\danie\\OneDrive\\Documents\\csharp\\Zaverecny-Projekt-PROGSEM26\\ladicka\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|c:\\users\\danie\\onedrive\\documents\\csharp\\zaverecny-projekt-progsem26\\ladicka\\views\\home\\uke.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|solutionrelative:views\\home\\uke.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|c:\\users\\danie\\onedrive\\documents\\csharp\\zaverecny-projekt-progsem26\\ladicka\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|c:\\users\\danie\\onedrive\\documents\\csharp\\zaverecny-projekt-progsem26\\ladicka\\views\\home\\ladicka.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|solutionrelative:views\\home\\ladicka.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|c:\\users\\danie\\onedrive\\documents\\csharp\\zaverecny-projekt-progsem26\\ladicka\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|c:\\users\\danie\\onedrive\\documents\\csharp\\zaverecny-projekt-progsem26\\ladicka\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|c:\\users\\danie\\onedrive\\documents\\csharp\\zaverecny-projekt-progsem26\\ladicka\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|c:\\users\\danie\\onedrive\\documents\\csharp\\zaverecny-projekt-progsem26\\ladicka\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|c:\\users\\danie\\onedrive\\documents\\csharp\\zaverecny-projekt-progsem26\\ladicka\\wwwroot\\css\\trying out.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|solutionrelative:wwwroot\\css\\trying out.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|c:\\users\\danie\\onedrive\\documents\\csharp\\zaverecny-projekt-progsem26\\ladicka\\ladicka.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|solutionrelative:ladicka.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|c:\\users\\danie\\onedrive\\documents\\csharp\\zaverecny-projekt-progsem26\\ladicka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|c:\\users\\danie\\onedrive\\documents\\csharp\\zaverecny-projekt-progsem26\\ladicka\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|c:\\users\\danie\\onedrive\\documents\\csharp\\zaverecny-projekt-progsem26\\ladicka\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|c:\\users\\danie\\onedrive\\documents\\csharp\\zaverecny-projekt-progsem26\\ladicka\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|c:\\users\\danie\\onedrive\\documents\\csharp\\zaverecny-projekt-progsem26\\ladicka\\views\\home\\ladicka.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|solutionrelative:views\\home\\ladicka.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|c:\\users\\danie\\onedrive\\documents\\csharp\\zaverecny-projekt-progsem26\\ladicka\\views\\home\\uke.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|solutionrelative:views\\home\\uke.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|c:\\users\\danie\\onedrive\\documents\\csharp\\zaverecny-projekt-progsem26\\ladicka\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|c:\\users\\danie\\onedrive\\documents\\csharp\\zaverecny-projekt-progsem26\\ladicka\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|c:\\users\\danie\\onedrive\\documents\\csharp\\zaverecny-projekt-progsem26\\ladicka\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,11 +54,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documents\\csharp\\Zaverecny-Projekt-PROGSEM26\\ladicka\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documents\\csharp\\Zaverecny-Projekt-PROGSEM26\\ladicka\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T20:26:05.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "trying out.css",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documents\\csharp\\Zaverecny-Projekt-PROGSEM26\\ladicka\\wwwroot\\css\\trying out.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\trying out.css",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documents\\csharp\\Zaverecny-Projekt-PROGSEM26\\ladicka\\wwwroot\\css\\trying out.css",
+              "RelativeToolTip": "wwwroot\\css\\trying out.css",
+              "ViewState": "AgIAAOAKAAAAAAAAAAAcwC8LAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-06-08T20:24:44.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Uke.cshtml",
               "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documents\\csharp\\Zaverecny-Projekt-PROGSEM26\\ladicka\\Views\\Home\\Uke.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Uke.cshtml",
@@ -67,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documents\\csharp\\Zaverecny-Projekt-PROGSEM26\\ladicka\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
@@ -79,44 +109,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Ladicka.cshtml",
               "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documents\\csharp\\Zaverecny-Projekt-PROGSEM26\\ladicka\\Views\\Home\\Ladicka.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Ladicka.cshtml",
               "ToolTip": "C:\\Users\\danie\\OneDrive\\Documents\\csharp\\Zaverecny-Projekt-PROGSEM26\\ladicka\\Views\\Home\\Ladicka.cshtml",
               "RelativeToolTip": "Views\\Home\\Ladicka.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-07T22:29:52.828Z"
+              "WhenOpened": "2026-06-07T22:29:52.828Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documents\\csharp\\Zaverecny-Projekt-PROGSEM26\\ladicka\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\danie\\OneDrive\\Documents\\csharp\\Zaverecny-Projekt-PROGSEM26\\ladicka\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAABfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-06-07T22:23:57.736Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documents\\csharp\\Zaverecny-Projekt-PROGSEM26\\ladicka\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\danie\\OneDrive\\Documents\\csharp\\Zaverecny-Projekt-PROGSEM26\\ladicka\\wwwroot\\css\\site.css",
               "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAUwDcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-06-07T22:10:11.864Z"
+              "WhenOpened": "2026-06-07T22:10:11.864Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documents\\csharp\\Zaverecny-Projekt-PROGSEM26\\ladicka\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
@@ -124,23 +156,12 @@
               "RelativeToolTip": "Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T22:08:59.801Z"
+              "WhenOpened": "2026-06-07T22:08:59.801Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documents\\csharp\\Zaverecny-Projekt-PROGSEM26\\ladicka\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documents\\csharp\\Zaverecny-Projekt-PROGSEM26\\ladicka\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-07T22:05:40.009Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documents\\csharp\\Zaverecny-Projekt-PROGSEM26\\ladicka\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -148,11 +169,12 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-07T21:52:24.322Z"
+              "WhenOpened": "2026-06-07T21:52:24.322Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documents\\csharp\\Zaverecny-Projekt-PROGSEM26\\ladicka\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -164,14 +186,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "ladicka",
               "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documents\\csharp\\Zaverecny-Projekt-PROGSEM26\\ladicka\\ladicka.csproj",
               "RelativeDocumentMoniker": "ladicka.csproj",
               "ToolTip": "C:\\Users\\danie\\OneDrive\\Documents\\csharp\\Zaverecny-Projekt-PROGSEM26\\ladicka\\ladicka.csproj",
               "RelativeToolTip": "ladicka.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-06-07T21:42:32.109Z"
+              "WhenOpened": "2026-06-07T21:42:32.109Z",
+              "EditorCaption": ""
             }
           ]
         }
