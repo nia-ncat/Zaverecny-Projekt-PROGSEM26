@@ -55,3 +55,115 @@ button {
     button:hover {
         background-color: #45a049;
     }
+
+.active {
+    background: green;
+    color: white;
+}
+.tuner-card {
+    max-width: 760px;
+    margin: 40px auto;
+    text-align: center;
+    padding: 24px 18px 30px;
+}
+
+.note-name {
+    font-size: 64px;
+    font-weight: 800;
+    color: #138a43;
+    line-height: 1;
+}
+
+.note-freq {
+    font-size: 22px;
+    font-weight: 700;
+    margin-top: 10px;
+    color: #111;
+}
+
+.gauge {
+    position: relative;
+    width: 100%;
+    max-width: 640px;
+    height: 250px;
+    margin: 20px auto 0;
+}
+
+.gauge-arc {
+    position: absolute;
+    left: 50%;
+    bottom: 36px;
+    width: 440px;
+    height: 220px;
+    border: 6px solid #111;
+    border-bottom: none;
+    border-radius: 440px 440px 0 0;
+    transform: translateX(-50%);
+}
+
+.center-mark {
+    position: absolute;
+    left: 50%;
+    top: 42px;
+    width: 40px;
+    height: 18px;
+    background: #138a43;
+    transform: translateX(-50%);
+}
+
+.needle {
+    position: absolute;
+    left: 50%;
+    bottom: 36px;
+    width: 4px;
+    height: 175px;
+    background: #111;
+    transform-origin: bottom center;
+    transform: translateX(-50%) rotate(0deg);
+    transition: transform 0.08s linear;
+}
+
+.gauge-label {
+    position: absolute;
+    bottom: 66px;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+    .gauge-label.left {
+        left: 85px;
+    }
+
+    .gauge-label.right {
+        right: 85px;
+    }
+
+.current-frequency {
+    font-size: 22px;
+    font-weight: 700;
+    margin-top: 8px;
+    color: #111;
+}
+
+.status {
+    font-size: 24px;
+    font-weight: 800;
+    margin-top: 10px;
+    color: #138a43;
+}
+
+.start-btn {
+    margin-top: 18px;
+    padding: 12px 28px;
+    border: none;
+    border-radius: 16px;
+    background: #138a43;
+    color: #fff;
+    font-size: 22px;
+    font-weight: 800;
+}
+
+    .start-btn:disabled {
+        opacity: 0.7;
+        cursor: default;
+    }

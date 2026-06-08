@@ -1,18 +1,40 @@
-﻿
+﻿@using System.Text.Json
 @{
-    ViewData["Title"] = "Kytara";
+    ViewData["Title"] = "Geetar Tuner";
+    var strings = new[]
+    {
+        new { note = "E2", freq = 82.41 },
+        new { note = "A2", freq = 110.00 },
+        new { note = "D3", freq = 146.83 },
+        new { note = "G3", freq = 196.00 },
+        new { note = "B3", freq = 246.94 },
+        new { note = "E4", freq = 329.63 }
+    };
 }
 
-<p>tady bude nejak propojeny kod na ladeni kytary</p>
+<div class="tuner-card">
+    <div class="note-name" id="noteName">E2</div>
+    <div class="note-freq" id="noteFreq">(82.41 Hz)</div>
 
-<div class="tuner-container">
-    <h1>Ladicka kytary</h1>
-    <div class="tuner-display">
-        <p>Current Note: <span id="current-note">A</span></p>
-        <p>Frequency: <span id="frequency">440 Hz</span></p>
+    <div class="gauge">
+        <div class="gauge-arc"></div>
+        <div class="center-mark"></div>
+        <div class="needle" id="needle"></div>
+        <div class="gauge-label left">G#4</div>
+        <div class="gauge-label right">A#4</div>
     </div>
-    <div class="controls">
-        <button id="start-tuning">Start Tuning</button>
-        <button id="stop-tuning">Stop</button>
-    </div>
+
+    <div class="current-frequency" id="frequencyText">Current frequency: -- Hz</div>
+    <div class="status" id="statusText">Press Start</div>
+
+    <button id="startBtn" class="start-btn">Start tuner</button>
 </div>
+
+@section Scripts {
+    <script>
+        window.tunerConfig = {
+            strings: @Html.Raw(JsonSerializer.Serialize(strings))
+        };
+    </script>
+    <script src="~/js/tuner.js" asp-append-version="true"></script>
+}

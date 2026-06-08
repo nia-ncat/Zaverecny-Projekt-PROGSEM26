@@ -1,6 +1,38 @@
-﻿@{
-    ViewData["Title"] = "Uke";
+﻿@using System.Text.Json
+@{
+    ViewData["Title"] = "Ukulele Tuner";
+    var strings = new[]
+    {
+        new { note = "G4", freq = 392.00 },
+        new { note = "C4", freq = 261.63 },
+        new { note = "E4", freq = 329.63 },
+        new { note = "A4", freq = 440.00 }
+    };
 }
-<h1>@ViewData["Title"]</h1>
 
-<p>uke tuner arrrrrrghh</p>
+<div class="tuner-card">
+    <div class="note-name" id="noteName">G4</div>
+    <div class="note-freq" id="noteFreq">(392.00 Hz)</div>
+
+    <div class="gauge">
+        <div class="gauge-arc"></div>
+        <div class="center-mark"></div>
+        <div class="needle" id="needle"></div>
+        <div class="gauge-label left">G#4</div>
+        <div class="gauge-label right">A#4</div>
+    </div>
+
+    <div class="current-frequency" id="frequencyText">Current frequency: -- Hz</div>
+    <div class="status" id="statusText">Press Start</div>
+
+    <button id="startBtn" class="start-btn">Start tuner</button>
+</div>
+
+@section Scripts {
+    <script>
+        window.tunerConfig = {};
+        window.tunerConfig.strings =
+            @Html.Raw(System.Text.Json.JsonSerializer.Serialize(strings));
+    </script>>
+    <script src="~/js/tuner.js" asp-append-version="true"></script>
+}

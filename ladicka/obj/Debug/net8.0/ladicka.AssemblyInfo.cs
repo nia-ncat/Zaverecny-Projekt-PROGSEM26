@@ -14,11 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ladicka")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a601eacbeb9cf0d18ad5ec589886c553912f6f40")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90d5e132ad92c9dc7461715ed2fdeb26511b9f91")]
->>>>>>> origin/zaverecnyprojekt
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+541e3a05bc59e761b928b7611611b4d08cbd1eba")]
 [assembly: System.Reflection.AssemblyProductAttribute("ladicka")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ladicka")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -18,6 +18,7 @@ const guitarStrings = [
 let audioContext;
 let anal; //analyzator
 
+
 // tlacitko
 document.getElementById("startBtn")
     .addEventListener("click", spustitLadicku);
@@ -64,6 +65,7 @@ async function spustitLadicku() {
 
     aktualizovatTon();
 }
+
 
 function aktualizovatTon() {
 
@@ -151,6 +153,33 @@ function najitNejblizsiStrunu(frek) {
 
     return nearest;
 }
+
+const difference =
+    frek - nearest.frek;
+
+const maxOffset = 100;
+
+let offset =
+    Math.max(
+        -maxOffset,
+        Math.min(maxOffset, difference * 10)
+    );
+
+document.getElementById("needle")
+    .style.left =
+    `calc(50% + ${offset}px)`;
+
+document.querySelectorAll(".string-btn")
+    .forEach(btn =>
+        btn.classList.remove("active"));
+
+const activeBtn =
+    document.querySelector(
+        `[data-note="${nearest.name}"]`
+    );
+
+if (activeBtn)
+    activeBtn.classList.add("active");
 
 function vypocitatAutokorelaci(
     buffer,
