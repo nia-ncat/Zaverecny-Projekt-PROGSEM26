@@ -18,7 +18,12 @@ namespace ladicka.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Uke()
+        {
+            return View();
+        }
+
+        public IActionResult Ladicka()
         {
             return View();
         }
