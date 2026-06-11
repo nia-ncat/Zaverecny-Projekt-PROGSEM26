@@ -1,8 +1,61 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Webova ladicka";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="tuner-card">
+
+    <h1>webova ladicka</h1>
+
+    <label for="instrument">
+        vyber nastroj:
+    </label>
+
+    <select id="instrument">
+        <option value="ukulele">ukulele</option>
+        <option value="kytara">kytara</option>
+    </select>
+
+    <div class="gauge">
+        <div class="center-line"></div>
+        <div id="needle"></div>
+    </div>
+
+    <h2 id="nota">-</h2>
+
+    <h3 id="frekvence">0 Hz</h3>
+
+    <p id="status">
+        cekam...
+    </p>
+
+    <button id="startBtn">
+        spustit ladicku
+    </button>
+
+    <div id="kytaraStruny" class="strings" style="display:none">
+
+        <h3>struny kytary</h3>
+
+        <button class="string-btn" data-note="E2">E2</button>
+        <button class="string-btn" data-note="A2">A2</button>
+        <button class="string-btn" data-note="D3">D3</button>
+        <button class="string-btn" data-note="G3">G3</button>
+        <button class="string-btn" data-note="B3">B3</button>
+        <button class="string-btn" data-note="E4">E4</button>
+
+    </div>
+
+    <div id="ukuleleStruny" class="strings">
+
+        <h3>struny ukulele</h3>
+
+        <button class="string-btn" data-note="G4">G4</button>
+        <button class="string-btn" data-note="C4">C4</button>
+        <button class="string-btn" data-note="E4">E4</button>
+        <button class="string-btn" data-note="A4">A4</button>
+
+    </div>
+
 </div>
+
+<script src="~/js/site.js"></script>

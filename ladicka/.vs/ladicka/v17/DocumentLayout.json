@@ -7,20 +7,28 @@
       "RelativeMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|c:\\users\\belru_cb331rc\\onedrive\\documents\\school\\zaverecny-projekt-progsem26\\ladicka\\views\\home\\ladicka.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|solutionrelative:views\\home\\ladicka.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|c:\\users\\belru_cb331rc\\onedrive\\documents\\school\\zaverecny-projekt-progsem26\\ladicka\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|c:\\users\\belru_cb331rc\\onedrive\\documents\\school\\zaverecny-projekt-progsem26\\ladicka\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|c:\\users\\belru_cb331rc\\onedrive\\documents\\school\\zaverecny-projekt-progsem26\\ladicka\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|c:\\users\\belru_cb331rc\\onedrive\\documents\\school\\zaverecny-projekt-progsem26\\ladicka\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|c:\\users\\belru_cb331rc\\onedrive\\documents\\school\\zaverecny-projekt-progsem26\\ladicka\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|c:\\users\\belru_cb331rc\\onedrive\\documents\\school\\zaverecny-projekt-progsem26\\ladicka\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|c:\\users\\belru_cb331rc\\onedrive\\documents\\school\\zaverecny-projekt-progsem26\\ladicka\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|c:\\users\\belru_cb331rc\\onedrive\\documents\\school\\zaverecny-projekt-progsem26\\ladicka\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4D27FE65-80D0-427C-A6C5-F29DEE5965C0}|ladicka.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\belru_cb331rc\\OneDrive\\Documents\\school\\Zaverecny-Projekt-PROGSEM26\\js - Copy\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
@@ -33,8 +41,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\belru_cb331rc\\OneDrive\\Documents\\school\\Zaverecny-Projekt-PROGSEM26\\ladicka\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\belru_cb331rc\\OneDrive\\Documents\\school\\Zaverecny-Projekt-PROGSEM26\\ladicka\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-06-09T12:47:55.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\belru_cb331rc\\OneDrive\\Documents\\school\\Zaverecny-Projekt-PROGSEM26\\ladicka\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\belru_cb331rc\\OneDrive\\Documents\\school\\Zaverecny-Projekt-PROGSEM26\\ladicka\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-09T12:32:33.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\belru_cb331rc\\OneDrive\\Documents\\school\\Zaverecny-Projekt-PROGSEM26\\ladicka\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\belru_cb331rc\\OneDrive\\Documents\\school\\Zaverecny-Projekt-PROGSEM26\\ladicka\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T10:14:07.961Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -43,66 +90,53 @@
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\belru_cb331rc\\OneDrive\\Documents\\school\\Zaverecny-Projekt-PROGSEM26\\ladicka\\wwwroot\\css\\site.css",
               "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAwwGUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFkAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2026-06-09T00:07:30Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Ladicka.cshtml",
-              "DocumentMoniker": "C:\\Users\\belru_cb331rc\\OneDrive\\Documents\\school\\Zaverecny-Projekt-PROGSEM26\\ladicka\\Views\\Home\\Ladicka.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Ladicka.cshtml",
-              "ToolTip": "C:\\Users\\belru_cb331rc\\OneDrive\\Documents\\school\\Zaverecny-Projekt-PROGSEM26\\ladicka\\Views\\Home\\Ladicka.cshtml",
-              "RelativeToolTip": "Views\\Home\\Ladicka.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-09T00:01:04.651Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\belru_cb331rc\\OneDrive\\Documents\\school\\Zaverecny-Projekt-PROGSEM26\\ladicka\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\belru_cb331rc\\OneDrive\\Documents\\school\\Zaverecny-Projekt-PROGSEM26\\ladicka\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwDwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-06-09T00:01:01.307Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\belru_cb331rc\\OneDrive\\Documents\\school\\Zaverecny-Projekt-PROGSEM26\\ladicka\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
               "ToolTip": "C:\\Users\\belru_cb331rc\\OneDrive\\Documents\\school\\Zaverecny-Projekt-PROGSEM26\\ladicka\\appsettings.Development.json",
               "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-06-08T23:57:10.281Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "site.js",
               "DocumentMoniker": "C:\\Users\\belru_cb331rc\\OneDrive\\Documents\\school\\Zaverecny-Projekt-PROGSEM26\\ladicka\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
               "ToolTip": "C:\\Users\\belru_cb331rc\\OneDrive\\Documents\\school\\Zaverecny-Projekt-PROGSEM26\\ladicka\\wwwroot\\js\\site.js",
               "RelativeToolTip": "wwwroot\\js\\site.js",
-              "ViewState": "AgIAAOQAAAAAAAAAAAAYwP8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAADABAAAAAAAAAAAYwDwBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2026-06-08T23:43:41.407Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "site.js",
               "DocumentMoniker": "C:\\Users\\belru_cb331rc\\OneDrive\\Documents\\school\\Zaverecny-Projekt-PROGSEM26\\js - Copy\\site.js",
               "RelativeDocumentMoniker": "..\\js - Copy\\site.js",

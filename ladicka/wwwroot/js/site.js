@@ -1,5 +1,4 @@
-﻿
-const ukuleleStrings = [
+﻿const ukuleleStrings = [
     { name: "G4", frek: 392.00 },
     { name: "C4", frek: 261.63 },
     { name: "E4", frek: 329.63 },
@@ -16,21 +15,42 @@ const guitarStrings = [
 ];
 
 let audioContext;
-let anal; //analyzator
-
+let anal; // analyzator
+let stream;
+let zapnuto = false;
 
 // tlacitko
 document.getElementById("startBtn")
-    .addEventListener("click", spustitLadicku);
+    .addEventListener("click", prepnoutLadicku);
 
-// text
+// zobrazeni spravnych not
 document.getElementById("instrument")
-    .addEventListener("change", () => {
+    .addEventListener("change", zobrazStruny);
 
-        document.getElementById("currentInstrument")
-            .innerText =
-            document.getElementById("instrument").value;
-    });
+function zobrazStruny() {
+
+    const instrument =
+        document.getElementById("instrument").value;
+
+    if (instrument === "kytara") {
+
+        document.getElementById("kytaraStruny")
+            .style.display = "block";
+
+        document.getElementById("ukuleleStruny")
+            .style.display = "none";
+    }
+    else {
+
+        document.getElementById("kytaraStruny")
+            .style.display = "none";
+
+        document.getElementById("ukuleleStruny")
+            .style.display = "block";
+    }
+}
+
+zobrazStruny();
 
 function ziskatStruny() {
 
@@ -46,17 +66,18 @@ function ziskatStruny() {
 
 async function spustitLadicku() {
 
-    const stream =
+    stream =
         await navigator.mediaDevices.getUserMedia({
             audio: true
         });
 
-    audioContext = new AudioContext();
+    audioContext =
+        new AudioContext();
 
     const source =
         audioContext.createMediaStreamSource(stream);
 
-    anal=
+    anal =
         audioContext.createAnalyser();
 
     anal.fftSize = 2048;
@@ -66,8 +87,56 @@ async function spustitLadicku() {
     aktualizovatTon();
 }
 
+async function prepnoutLadicku() {
+
+    if (!zapnuto) {
+
+        zapnuto = true;
+
+        await spustitLadicku();
+
+        document.getElementById("startBtn")
+            .innerText = "vypnout ladicku";
+    }
+    else {
+
+        vypnoutLadicku();
+
+        zapnuto = false;
+
+        document.getElementById("startBtn")
+            .innerText = "spustit ladicku";
+    }
+}
+
+function vypnoutLadicku() {
+
+    if (stream) {
+
+        stream.getTracks()
+            .forEach(track => track.stop());
+    }
+
+    if (audioContext) {
+
+        audioContext.close();
+    }
+
+    document.getElementById("nota")
+        .innerText = "-";
+
+    document.getElementById("frekvence")
+        .innerText = "0 Hz";
+
+    document.getElementById("status")
+        .innerText = "vypnuto";
+}
 
 function aktualizovatTon() {
+
+    if (!zapnuto) {
+        return;
+    }
 
     const bufferLength =
         anal.fftSize;
@@ -99,6 +168,35 @@ function aktualizovatTon() {
         const difference =
             frek - nearest.frek;
 
+        const maxOffset = 100;
+
+        let offset =
+            Math.max(
+                -maxOffset,
+                Math.min(
+                    maxOffset,
+                    difference * 10
+                )
+            );
+
+        document.getElementById("needle")
+            .style.left =
+            `calc(50% + ${offset}px)`;
+
+        document.querySelectorAll(".string-btn")
+            .forEach(btn =>
+                btn.classList.remove("active"));
+
+        const activeBtn =
+            document.querySelector(
+                `[data-note="${nearest.name}"]`
+            );
+
+        if (activeBtn) {
+
+            activeBtn.classList.add("active");
+        }
+
         let status;
 
         if (Math.abs(difference) < 1) {
@@ -116,6 +214,9 @@ function aktualizovatTon() {
 
         document.getElementById("status")
             .innerText = status;
+
+        console.log("frekvence:", frek);
+        console.log("rozdil:", difference);
     }
 
     requestAnimationFrame(
@@ -146,40 +247,15 @@ function najitNejblizsiStrunu(frek) {
 
         if (difference < minDifference) {
 
-            minDifference = difference;
+            minDifference =
+                difference;
+
             nearest = s;
         }
     }
 
     return nearest;
 }
-
-const difference =
-    frek - nearest.frek;
-
-const maxOffset = 100;
-
-let offset =
-    Math.max(
-        -maxOffset,
-        Math.min(maxOffset, difference * 10)
-    );
-
-document.getElementById("needle")
-    .style.left =
-    `calc(50% + ${offset}px)`;
-
-document.querySelectorAll(".string-btn")
-    .forEach(btn =>
-        btn.classList.remove("active"));
-
-const activeBtn =
-    document.querySelector(
-        `[data-note="${nearest.name}"]`
-    );
-
-if (activeBtn)
-    activeBtn.classList.add("active");
 
 function vypocitatAutokorelaci(
     buffer,
